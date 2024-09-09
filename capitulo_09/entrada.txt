@@ -1,0 +1,7 @@
+;Esta linha não deve ser impressa
+>Esta linha deve ser impressa alinhada a direita
+*Esta linha deve ser centralizada
+=Esta linha imprime 40 simbolos de =
+.Esta linha precisa apertar Enter para continuar
+uma linha normal
+outra linha normal
